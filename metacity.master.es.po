@@ -362,15 +362,15 @@ msgstr ""
 
 #: data/ui/theme-viewer-window.ui:41
 msgid "Dark Theme:"
-msgstr ""
+msgstr "Tema Oscuro"
 
 #: data/ui/theme-viewer-window.ui:80
 msgid "Frame Type:"
-msgstr ""
+msgstr "Tipo de Marco"
 
 #: data/ui/theme-viewer-window.ui:94
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: data/ui/theme-viewer-window.ui:95
 #, fuzzy
@@ -392,7 +392,7 @@ msgstr "_Utilidad"
 
 #: data/ui/theme-viewer-window.ui:98
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 #: data/ui/theme-viewer-window.ui:99
 msgid "Border"
@@ -400,19 +400,19 @@ msgstr "Borde"
 
 #: data/ui/theme-viewer-window.ui:100
 msgid "Attached"
-msgstr ""
+msgstr "Adjunto"
 
 #: data/ui/theme-viewer-window.ui:128
 msgid "Frame Flags:"
-msgstr ""
+msgstr "Banderas de Marco"
 
 #: data/ui/theme-viewer-window.ui:143
 msgid "Has Focus"
-msgstr ""
+msgstr "Tiene enfoque"
 
 #: data/ui/theme-viewer-window.ui:158
 msgid "Shaded"
-msgstr ""
+msgstr "Sombreada"
 
 #: data/ui/theme-viewer-window.ui:172
 #, fuzzy
@@ -444,11 +444,11 @@ msgstr "Gestor de composición"
 
 #: data/ui/theme-viewer-window.ui:342 theme-viewer/theme-viewer-window.c:525
 msgid "Choose Theme"
-msgstr ""
+msgstr "Escoger Tema"
 
 #: data/ui/theme-viewer-window.ui:437
 msgid "Reload"
-msgstr ""
+msgstr "Recargar"
 
 #: libmetacity/meta-color-spec.c:246
 #, fuzzy, c-format
@@ -756,7 +756,7 @@ msgstr "Ocurrió un error al cargar el tema «%s»: %s\n"
 #: libmetacity/meta-theme-impl.c:99
 #, c-format
 msgid "MetaThemeImplClass::load not implemented for '%s'"
-msgstr ""
+msgstr "MetaThemeImplClass::carga no implementada para «%s»" 
 
 #. Translators: This means that an attribute which should have been found
 #. * on an XML element was not in fact found.
@@ -1901,7 +1901,7 @@ msgstr "%d x %d"
 
 #: theme-viewer/theme-viewer-window.c:791
 msgid "Metacity Theme Viewer"
-msgstr ""
+msgstr "Visualizador de temas de Metacity"
 
 #~ msgid "OK"
 #~ msgstr "Aceptar"
