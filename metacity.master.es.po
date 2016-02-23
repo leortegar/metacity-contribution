@@ -412,7 +412,7 @@ msgstr "Tiene enfoque"
 
 #: data/ui/theme-viewer-window.ui:158
 msgid "Shaded"
-msgstr "Sombreada"
+msgstr "Sombreado"
 
 #: data/ui/theme-viewer-window.ui:172
 #, fuzzy
