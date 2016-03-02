@@ -1,0 +1,6 @@
+git clone git://git.gnome.org/jhbuild
+dnf install redhat-rpm-config
+
+sudo dnf install @c-develoment @development-tools gnome-common pygobject2 dbus-python
+
+
